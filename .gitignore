@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+*.csv
+mail_hang*.txt
+Mail_Haenger_*.txt
